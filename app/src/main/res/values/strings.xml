@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Nudge</string>
+    <string name="channel_gentle_name">Gentle Nudges</string>
+    <string name="channel_gentle_desc">Soft, mindful nudges for water, breathing, and posture</string>
+    <string name="channel_normal_name">Daily Reminders</string>
+    <string name="channel_normal_desc">Standard daily habit nudges and scheduled check-ins</string>
+    <string name="channel_urgent_name">Priority Nudges</string>
+    <string name="channel_urgent_desc">Important timely nudges and persistent reminders</string>
+
+    <string name="action_done">Done</string>
+    <string name="action_snooze">Snooze 10m</string>
+    <string name="notification_title_default">Time for a gentle nudge</string>
+</resources>

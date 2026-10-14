@@ -1,0 +1,6 @@
+{
+  "name": "Nudge",
+  "description": "Mindful daily habit reminders and check-ins with rich push notifications",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
